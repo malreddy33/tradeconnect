@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TradeConnect/static/css/main.e6c13ad2.css",
+    "main.js": "/TradeConnect/static/js/main.cfe719e0.js",
+    "static/js/453.fef22d69.chunk.js": "/TradeConnect/static/js/453.fef22d69.chunk.js",
+    "index.html": "/TradeConnect/index.html",
+    "main.e6c13ad2.css.map": "/TradeConnect/static/css/main.e6c13ad2.css.map",
+    "main.cfe719e0.js.map": "/TradeConnect/static/js/main.cfe719e0.js.map",
+    "453.fef22d69.chunk.js.map": "/TradeConnect/static/js/453.fef22d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cfe719e0.js"
+  ]
+}
