@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tradeconnect/static/css/main.e6c13ad2.css",
-    "main.js": "/tradeconnect/static/js/main.4b3f2125.js",
+    "main.js": "/tradeconnect/static/js/main.8a3cc9d3.js",
     "static/js/453.fef22d69.chunk.js": "/tradeconnect/static/js/453.fef22d69.chunk.js",
     "index.html": "/tradeconnect/index.html",
     "main.e6c13ad2.css.map": "/tradeconnect/static/css/main.e6c13ad2.css.map",
-    "main.4b3f2125.js.map": "/tradeconnect/static/js/main.4b3f2125.js.map",
+    "main.8a3cc9d3.js.map": "/tradeconnect/static/js/main.8a3cc9d3.js.map",
     "453.fef22d69.chunk.js.map": "/tradeconnect/static/js/453.fef22d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4b3f2125.js"
+    "static/js/main.8a3cc9d3.js"
   ]
 }
